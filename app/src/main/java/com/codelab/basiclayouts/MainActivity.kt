@@ -335,7 +335,7 @@ private val alignYourBodyData = listOf(
     R.drawable.ab3_jane to R.string.ab3_jane,
     R.drawable.ab4_hankcop to R.string.ab4_hank,
     R.drawable.ab5_walterjr to R.string.ab5_walterjr,
-    R.drawable.ic_launcher_background to R.string.ab6_gus
+    R.drawable.ab6_gus to R.string.ab6_gus
 ).map { DrawableStringPair(it.first, it.second) }
 
 private val favoriteCollectionsData = listOf(
