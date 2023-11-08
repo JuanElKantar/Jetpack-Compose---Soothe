@@ -1,3 +1,8 @@
+#Taller 1 - Desarrollo Móvil Nativo - Jetpack Compose - Soothe
+
+En el actual repositorio se encuentra el proyecto Soothe, adaptandolo a la serie Breaking Bad, teniendo como base Jetpack Compose, siguiendo las instrucciones dadas durante la formación.
+
+
 # Basic Layouts in Compose Codelab
 
 This folder contains the source code for
